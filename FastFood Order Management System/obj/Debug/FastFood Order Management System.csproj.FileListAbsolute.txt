@@ -1,0 +1,12 @@
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\bin\Debug\FastFood Order Management System.exe.config
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\bin\Debug\FastFood Order Management System.exe
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\bin\Debug\FastFood Order Management System.pdb
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\obj\Debug\FastFood Order Management System.csprojAssemblyReference.cache
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\obj\Debug\FastFood_Order_Management_System.Form1.resources
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\obj\Debug\FastFood_Order_Management_System.Properties.Resources.resources
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\obj\Debug\FastFood Order Management System.csproj.GenerateResource.cache
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\obj\Debug\FastFood Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\obj\Debug\FastFood Order Management System.exe
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\obj\Debug\FastFood Order Management System.pdb
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\obj\Debug\FastFood_Order_Management_System.Dashboard.resources
+C:\Users\Elsa\source\repos\FastFood Order Management System\FastFood Order Management System\obj\Debug\FastFood_Order_Management_System.Receipt.resources
